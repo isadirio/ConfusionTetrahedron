@@ -1,2 +1,2 @@
-# ConfusionTetrahedron
-Code repository for the Confusion Tetrahedron applications
+# Code 
+Full code for the implementation and applications of the final project. 
